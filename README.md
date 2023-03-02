@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarwanMakhlouf
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning AI,ML,DL and WebDev and wordpress!
-- 💞️ I’m looking to collaborate on Internships in software or ML,AI,DL.
+- 💞️ I’m looking to collaborate on Internships in software dev, ML,AI,DL or Data Analysis.
 - 📫 How to reach me:
 - phone: 01064020390
 - facebook: marwanmakhlouf@yahoo.com
